@@ -147,6 +147,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Document.txt" />
     <Resource Include="test.txt" />
     <Resource Include="GitTest.txt" />
     <Content Include=".gitignore" />
