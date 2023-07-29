@@ -150,13 +150,6 @@
     <Resource Include="test.txt" />
     <Resource Include="GitTest.txt" />
     <Content Include=".gitignore" />
-    <Content Include="MyNotesDB.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="MyNotesDB_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>MyNotesDB.mdf</DependentUpon>
-    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -9,7 +9,5 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute(".gitignore")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("mynotesdb.mdf")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("mynotesdb_log.ldf")]
 
 

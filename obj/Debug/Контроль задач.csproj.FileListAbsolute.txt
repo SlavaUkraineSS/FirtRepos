@@ -40,8 +40,6 @@ C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\EntityFramewo
 C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\System.Data.SQLite.dll
 C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\System.Data.SQLite.EF6.dll
 C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\System.Data.SQLite.Linq.dll
-C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\MyNotesDB.mdf
-C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\MyNotesDB_log.ldf
 C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач_Content.g.cs
 C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.exe.config
 C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Newtonsoft.Json.dll
