@@ -36,8 +36,7 @@ namespace Контроль_задач
 
         public MyTelegramSave telegramSave = null;
 
-        public int DD = 1000;
-
+ 
         public MainWindow()
         {
             InitializeComponent();
