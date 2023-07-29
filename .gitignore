@@ -1,13 +1,12 @@
-﻿MyNotesDB.mdf
-
+﻿
 bin/
+
 obj/
 
 appsettings.Development.json
 appsettings.Production.json
 
 secrets.txt
-.suo
+.vs/
 temp/
 cache/
-goat.txt
