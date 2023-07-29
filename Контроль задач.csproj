@@ -147,6 +147,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="GitTest.txt" />
     <Content Include="MyNotesDB.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
