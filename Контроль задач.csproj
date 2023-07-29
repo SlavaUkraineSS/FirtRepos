@@ -147,6 +147,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="test.txt" />
     <Resource Include="GitTest.txt" />
     <Content Include=".gitignore" />
     <Content Include="MyNotesDB.mdf">

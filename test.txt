@@ -1,0 +1,7 @@
+﻿Просто ТЕСТ
+
+
+Numpad5::
+send {Привет}
+sleep 100
+send {Enter}
