@@ -1,0 +1,52 @@
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Контроль задач.exe.config
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Контроль задач.exe
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Контроль задач.pdb
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.g.resources
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль_задач.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.exe
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.pdb
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\EditEntery.g.cs
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\EditEntery.baml
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\MyNotesDB.mdf
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\MyNotesDB_log.ldf
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач_Content.g.cs
+C:\Users\Lenovo\source\repos\Контроль задач\obj\Debug\Контроль задач.exe.config
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Telegram.Bot.dll
+C:\Users\Lenovo\source\repos\Контроль задач\bin\Debug\Telegram.Bot.pdb

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Контроль_задач.EditEntery"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Контроль_задач"
+        x:Name="_EditEntery"
+        mc:Ignorable="d"
+        Title="EditEntery" Height="450" Width="800" Visibility="Visible">
+    <Grid Background="#FFE6C8C8">
+        <TextBox x:Name="EditEnteryTextBox" HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="780" Height="237" FontSize="18" Text=""/>
+        <Button Click="Save_Changes" Content="Save Changes" HorizontalAlignment="Center" Margin="0,301,0,0" VerticalAlignment="Top" Height="69" Width="193" FontSize="20"/>
+
+    </Grid>
+</Window>
